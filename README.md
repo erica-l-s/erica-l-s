@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on pharmacy but I'm looking for a first job of Software development Front-End 
 - 🌱 I’m currently learning React JS
-- ⚡ I'm a Pokahontas' tattoo and  Horde Warcraft's tattoo :large_orange_diamond: I'm like animals and nature :cherry_blossom:: I'm  For the Horde forever!!
+- ⚡ I'm a Pokahontas' tattoo and  Horde Warcraft's tattoo :large_orange_diamond: I'm like animals and nature :cherry_blossom: I'm  For the Horde forever!!
 
 <div align="center">
   <a href="https://github.com/erica-l-s">
