@@ -2,8 +2,9 @@
 ### Hi! My name is Erica and here is my development's World ! <img height="25em" src= https://user-images.githubusercontent.com/97070330/173248089-fe245111-c362-4f73-99a1-d0c05987ad0a.gif />
 
 - 🔭 I’m currently working on pharmacy but I'm looking for a first job of Software development Front-End 
-- 🌱 I’m currently learning React JS
-- ⚡ I'm a Pokahontas' tattoo and Warcraft's Horde tattoo :large_orange_diamond: I'm like animals and nature :cherry_blossom: I'm  For the Horde forever!!
+- 🌱 I’m currently learning React JS 
+- ⚡ I'm a Pokahontas' tattoo and Warcraft's Horde tattoo :large_orange_diamond: I'm like animals and nature :cherry_blossom: I'm  For the Horde forever!! <img height="25em" align= "center" src= https://user-images.githubusercontent.com/97070330/173248729-50b1f537-0b30-46ae-9960-6aeb1b66b093.png />
+
 
 <div align="center">
   <a href="https://github.com/erica-l-s">
