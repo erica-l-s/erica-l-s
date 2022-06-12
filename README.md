@@ -34,8 +34,10 @@
   <a href="https://www.linkedin.com/in/ericalesilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href= "https://wa.me/5585999703865" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/74c4edf2261b5faae3df8f4219ea9bf7.gif" align=right width="150" height="150" border="50px" alt="https://picasion.com/"/>
-
  
-
 </div>
+    ![Snake animation](https://github.com/erica-l-s/erica-l-s/blob/output/github-contribution-grid-snake.svg)
+   <div>
+     
+   </div>
   
