@@ -1,9 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9822F7&background=2D36FF1D&center=true&vCenter=true&multiline=true&width=1300&height=100&lines=Hello%2C+I'm+Erica;Full-Stack+developer)](https://git.io/typing-svg)
+ 
+####  I'm looking for a first job of Software development Full Stack :eyes: 
 
-### Hi! My name is Erica and here is my development's World ! <img height="25em" src= https://user-images.githubusercontent.com/97070330/173248089-fe245111-c362-4f73-99a1-d0c05987ad0a.gif />
 
-- 🔭 I’m currently working on pharmacy but I'm looking for a first job of Software development Full Stack 
-- 🌱 I’m currently learning PHP
-- ⚡ I'm a Pokahontas' tattoo and Warcraft's Horde tattoo :large_orange_diamond: I'm like animals and nature :cherry_blossom: I'm  For the Horde forever!! <img height="25em" align= "center" src= https://user-images.githubusercontent.com/97070330/173248729-50b1f537-0b30-46ae-9960-6aeb1b66b093.png />
+### I’m learning: 
+<img align="center" alt="Erica-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"><img align="center" alt="Erica-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+
 
 
 <div align="center">
