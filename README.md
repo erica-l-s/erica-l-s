@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9822F7&background=2D36FF1D&center=true&vCenter=true&multiline=true&width=1300&height=100&lines=Hello%2C+I'm+Erica;Full-Stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&duration=2000&pause=1000&color=9822F7&background=2D36FF1D&center=true&vCenter=true&multiline=true&width=1300&height=200&lines=Hello%2C+I'm+Erica;Full-Stack+developer)](https://git.io/typing-svg)
  
 #### I'm looking for a first job of Software development Full Stack :eyes:      <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/74c4edf2261b5faae3df8f4219ea9bf7.gif" align=right width="150" height="150" border="50px" alt="https://picasion.com/"/>
 <br>
