@@ -4,9 +4,6 @@
 <br>
 <br>
 
-### I’m learning: 
-<img align="center" alt="Erica-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"><img align="center" alt="Erica-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
 
 ##
 ### My Stats
